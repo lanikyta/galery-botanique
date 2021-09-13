@@ -1,0 +1,41 @@
+body{
+    background-color: #D8D2C9;
+}
+header{
+    margin: auto;
+    width: 390px;
+}
+
+
+section{
+    text-align: center;
+}
+.cajapadre{
+    display: flex;
+    flex-wrap: wrap;
+    width: 650px;
+    margin: 10px auto 10px auto;
+}
+div{
+    background-color: #E7E2D6;
+    padding: 6px;
+    margin: 4px 6px 20px 4px;
+}
+#caja1{
+    flex-grow: 1;
+}
+#caja2{
+    flex-grow: 1;
+}
+#caja3{
+    flex-grow: 1;
+}
+#caja4{
+    flex-grow: 1;
+}
+#caja5{
+    flex-grow: 1;
+}
+#caja6{
+    flex-grow: 1;
+}
